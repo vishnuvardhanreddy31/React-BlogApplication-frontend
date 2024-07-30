@@ -1,0 +1,39 @@
+/* src/styles/custom-dark-theme.css */
+
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.container {
+  background-color: #1e1e1e;
+  border-radius: 0.5rem;
+  padding: 1rem;
+}
+
+.card {
+  background-color: #2c2c2c;
+  border: 1px solid #333;
+}
+
+.card-header,
+.card-body,
+.card-footer {
+  background-color: #2c2c2c;
+}
+
+.card-title {
+  color: #ffffff;
+}
+
+.card-text {
+  color: #e0e0e0;
+}
+
+.text-muted {
+  color: #b0b0b0 !important;
+}
+
+hr {
+  border-top: 1px solid #333;
+}
